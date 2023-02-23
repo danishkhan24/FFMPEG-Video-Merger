@@ -1,12 +1,5 @@
 """
-Sir I have tried to cover all the confusing parts of code
-I am sorry it took a lot of time to complete it
-But I have tried my best to satisfy and fulfil your
-requirements.
-Kindly give me rating as it will help me build my profile
-and earn some money and create my portfolio
-
-Thank You once again
+It took some time
 """
 
 import os
